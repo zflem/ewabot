@@ -15,5 +15,6 @@
   "hubot-humanity",
   "hubot-dogeme",
   "hubot-outofcontext",
-  "hubot-principles"
+  "hubot-principles",
+  "hubot-explainshell"
 ]
