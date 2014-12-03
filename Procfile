@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n yes
+web: bin/hubot -a slack -n ewabot
