@@ -10,5 +10,10 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-calculator"
+  "hubot-calculator",
+  "hubot-darksky",
+  "hubot-humanity",
+  "hubot-dogeme",
+  "hubot-outofcontext",
+  "hubot-principles"
 ]
