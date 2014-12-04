@@ -16,6 +16,6 @@
   "hubot-dogeme",
   "hubot-outofcontext",
   "hubot-principles",
-  "hubot-explainshell"
-  "hubot-currency"
+  "hubot-explainshell",
+  "hubot-currency",
 ]
